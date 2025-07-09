@@ -8,9 +8,10 @@ I'm a **software developer** passionate about crafting robust and efficient solu
 
 ## Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aarevalo07&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aarevalo07&theme=tokyonight)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aarevalo07&theme=monokai" alt="GitHub Streak" /></a>
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarevalo07&layout=compact)
+![Top Langs](https://raw.githubusercontent.com/aarevalo07/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## 🛠 Technical skills
 
