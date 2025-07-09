@@ -7,8 +7,9 @@ I'm a **software developer** passionate about crafting robust and efficient solu
 ---
 
 ## Github Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=aarevalo07&theme=tokyonight)
-https://streak-stats.demolab.com/?user=aarevalo07&theme=monokai
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarevalo07&theme=monokai)]( https://git.io/streak-stats )
+
+[![Anurag's Streak](https://streak.railway.app/v1/radixmode/30?user=aarevalo07)]( https://git.io/streak-stats )
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarevalo07&layout=compact&theme=tokyonight)
 
