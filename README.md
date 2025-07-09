@@ -7,12 +7,9 @@ I'm a **software developer** passionate about crafting robust and efficient solu
 ---
 
 ## Github Stats
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aarevalo07&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=aarevalo07&theme=monokai)]
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aarevalo07&theme=monokai" alt="GitHub Streak" /></a>
-###
-![Top Langs](https://raw.githubusercontent.com/aarevalo07/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarevalo07&layout=compact&theme=tokyonight)
 
 ## 🛠 Technical skills
 
