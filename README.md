@@ -9,8 +9,6 @@ I'm a **software developer** passionate about crafting robust and efficient solu
 ## Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarevalo07&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aarevalo07&theme=tokyonight)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarevalo07&layout=compact&theme=tokyonight)
 
 ## 🛠 Technical skills
@@ -44,21 +42,15 @@ Here's a breakdown of my core technical abilities and the technologies I work wi
     * **CSV, XLSX (Excel), TXT, BIN (Binary)**.
 * **APIs**: Integration and development of Application Programming Interfaces.
 
-#### Manejo de Datos: Experiencia en la lectura y escritura de datos en diversos formatos:
-
-- CSV, XLSX (Excel), TXT, BIN (Binario).
-
-#### APIs: Integración y desarrollo de interfaces de programación de aplicaciones.
-
 ---
 ## 🚀 About Me
 
 I specialize in **web and desktop application development**, with a strong focus on **user interfaces** and **data handling**. I thrive on embracing new challenges and continuously learning to refine my skills, always striving to deliver high-quality solutions.
 ## Contact
 
-**LinkedIn:** Perfil_De_LinkedIn
+**LinkedIn:** Perfil no actualizado
 
-**Email:** correo@example.com
+**Email:** andreseduardoareavlo.sul@gmail.com
 
 ---
 
