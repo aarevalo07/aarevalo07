@@ -13,6 +13,12 @@ I'm a **software developer** passionate about crafting robust and efficient solu
 
 ## 🛠 Technical skills
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,java,py,bootstrap,html,css,js,express,fastapi,figma,firebase,flask,mysql,nodejs,npm,react,tailwind,ty,vite" />
+  </a>
+</p>
+
 Here's a breakdown of my core technical abilities and the technologies I work with:
 
 ### Languages
