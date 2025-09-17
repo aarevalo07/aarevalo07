@@ -15,7 +15,7 @@ I'm a **software developer** passionate about crafting robust and efficient solu
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,php,dart,go,py,flask,java,html,css,bootstrap,tailwind,figma,js,nodejs,express,fastapi,firebase,mysql,mongodb,postgres,react,nextjs,vite" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,php,dart,go,java,js,py,flask,html,css,bootstrap,tailwind,figma,nodejs,express,fastapi,firebase,mysql,mongodb,postgres,react,nextjs,vite" />
   </a>
 </p>
 
